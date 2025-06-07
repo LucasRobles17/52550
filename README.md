@@ -1,0 +1,2 @@
+# 52550
+Analizador

@@ -17,10 +17,10 @@ REQUISITOS:
 •Visual Studio Code: https://code.visualstudio.com/
 •Git: https://git-scm.com/install/
 2. Para verificar que todo está instalado, ejecuta en una terminal (Cmd, PowerShell, o terminal en Linux) los siguientes comandos:
-•java -version
-•node -v
-•npm -v
-•git -v
+- java -version
+- node -v
+- npm -v
+- git -v
 •Si las herramientas están instaladas correctamente, los comandos deberían devolver un número de versión y no un error.
 3. Por último, instala la extensión ANTLR en VSCode.
 •Entra a VSCode, aprieta 'CTRL + SHIFT + X' y busca "ANTLR4 grammar syntax support" ➞ Instalar. Una vez se instale ANTLR, reinicia VSCode.
@@ -42,11 +42,11 @@ EJECUCIÓN:
 
 Se incluyen 4 archivos de ejemplo de entradas para probar el analizador:
 - Entradas correctas:
-input_correcto_1.txt
-input_correcto_2.txt
+- input_correcto_1.txt
+- input_correcto_2.txt
 - Entradas incorrectas:
-input_incorrecto_1.txt
-input_incorrecto_2.txt
+- input_incorrecto_1.txt
+- input_incorrecto_2.txt
 
 NOTAS IMPORTANTES:
 El lenguaje AHORA soporta operaciones aritméticas respetando la precedencia de operadores (* y / antes que + y -), aclaración en el archivo "Lenguaje.g4" de los cambios realizados a la gramática propuesta.

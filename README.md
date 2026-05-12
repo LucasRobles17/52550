@@ -12,19 +12,19 @@ TAREAS QUE REALIZA EL ANALIZADOR:
 5. Ejecución del código generado como lo haría un intérprete básico.
 
 REQUISITOS:
-• Antes de ejecutar el proyecto es necesario tener instalado:
-JRE: https://www.java.com/en/download/
-Node.js (versión 16 o superior): https://nodejs.org/es
-Visual Studio Code: https://code.visualstudio.com/
-Git: https://git-scm.com/install/
-• Para verificar que todo está instalado, ejecuta en una terminal (Cmd, PowerShell, o terminal en Linux) los siguientes comandos:
-java -version
-node -v
-npm -v
-git -v
-Si las herramientas están instaladas correctamente, los comandos deberían devolver un número de versión y no un error.
-• Por último, instala la extensión ANTLR en VSCode.
-Entra a VSCode, aprieta 'CTRL + SHIFT + X' y busca "ANTLR4 grammar syntax support" ➞ Instalar. Una vez se instale ANTLR, reinicia VSCode.
+1. Antes de ejecutar el proyecto es necesario tener instalado:
+•JRE: https://www.java.com/en/download/
+•Node.js (versión 16 o superior): https://nodejs.org/es
+•Visual Studio Code: https://code.visualstudio.com/
+•Git: https://git-scm.com/install/
+2. Para verificar que todo está instalado, ejecuta en una terminal (Cmd, PowerShell, o terminal en Linux) los siguientes comandos:
+•java -version
+•node -v
+•npm -v
+•git -v
+•Si las herramientas están instaladas correctamente, los comandos deberían devolver un número de versión y no un error.
+3. Por último, instala la extensión ANTLR en VSCode.
+•Entra a VSCode, aprieta 'CTRL + SHIFT + X' y busca "ANTLR4 grammar syntax support" ➞ Instalar. Una vez se instale ANTLR, reinicia VSCode.
 
 PROYECTO ANALIZADOR
 

@@ -43,13 +43,11 @@ EJECUCIÓN:
 Se incluyen 4 archivos de ejemplo de entradas para probar el analizador:
 - Entradas correctas:
 
-input_correcto_1.txt
-
+input_correcto_1.txt  
 input_correcto_2.txt
 - Entradas incorrectas:
 
-input_incorrecto_1.txt
-
+input_incorrecto_1.txt  
 input_incorrecto_2.txt
 
 NOTAS IMPORTANTES:

@@ -1,5 +1,5 @@
 52550 / Lucas Robles
-SSL - ANALIZADOR
+# SSL - ANALIZADOR
 =======
 Este proyecto implementa un analizador léxico y sintáctico utilizando ANTLR4 y JavaScript.
 
@@ -25,7 +25,7 @@ REQUISITOS:
 3. Por último, instala la extensión ANTLR en VSCode.
 •Entra a VSCode, aprieta 'CTRL + SHIFT + X' y busca "ANTLR4 grammar syntax support" ➞ Instalar. Una vez se instale ANTLR, reinicia VSCode.
 
-PROYECTO ANALIZADOR
+# PROYECTO ANALIZADOR
 
 INSTALACIÓN:
 1. Crea una carpeta donde desees guardar el proyecto.

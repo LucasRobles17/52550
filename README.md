@@ -1,6 +1,5 @@
-52550 / Lucas Robles
+# 52550 / Lucas Robles
 # SSL - ANALIZADOR
-=======
 Este proyecto implementa un analizador léxico y sintáctico utilizando ANTLR4 y JavaScript.
 
 TAREAS QUE REALIZA EL ANALIZADOR:
@@ -50,6 +49,6 @@ input_correcto_2.txt
 input_incorrecto_1.txt  
 input_incorrecto_2.txt
 
-NOTAS IMPORTANTES:
-El lenguaje AHORA soporta operaciones aritméticas respetando la precedencia de operadores (* y / antes que + y -), aclaración en el archivo "Lenguaje.g4" de los cambios realizados a la gramática propuesta.
+#NOTAS IMPORTANTES:
+El lenguaje AHORA soporta operaciones aritméticas respetando la precedencia de operadores (* y / antes que + y -), aclaración en el archivo "Lenguaje.g4" de los cambios realizados a la gramática propuesta.  
 El programa SOLO analiza el archivo "input.txt".

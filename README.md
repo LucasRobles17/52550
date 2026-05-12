@@ -1,5 +1,4 @@
-# Lucas Robles
-# 52550
+52550 / Lucas Robles
 SSL - ANALIZADOR
 =======
 Este proyecto implementa un analizador léxico y sintáctico utilizando ANTLR4 y JavaScript.

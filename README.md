@@ -40,15 +40,13 @@ EJECUCIÓN:
 5. Para ver el árbol de análisis sintáctico, presiona 'F5' y verifica la salida de este.
 
 Se incluyen 4 archivos de ejemplo de entradas para probar el analizador:
-- Entradas correctas:
-
+- Entradas correctas:  
 input_correcto_1.txt  
 input_correcto_2.txt
-- Entradas incorrectas:
-
+- Entradas incorrectas:  
 input_incorrecto_1.txt  
 input_incorrecto_2.txt
 
-#NOTAS IMPORTANTES:
+# NOTAS IMPORTANTES:
 El lenguaje AHORA soporta operaciones aritméticas respetando la precedencia de operadores (* y / antes que + y -), aclaración en el archivo "Lenguaje.g4" de los cambios realizados a la gramática propuesta.  
 El programa SOLO analiza el archivo "input.txt".

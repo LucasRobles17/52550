@@ -19,7 +19,7 @@ Git: https://git-scm.com/install/
 java -version  
 node -v  
 npm -v  
-git -v
+git -v  
 Si las herramientas están instaladas correctamente, los comandos deberían devolver un número de versión y no un error.
 4. Por último, instala la extensión ANTLR en VSCode.  
 Entra a VSCode, aprieta 'CTRL + SHIFT + X' y busca "ANTLR4 grammar syntax support" ➞ Instalar. Una vez se instale ANTLR, reinicia VSCode.

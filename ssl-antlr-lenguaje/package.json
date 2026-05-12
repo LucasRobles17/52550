@@ -1,0 +1,21 @@
+{
+  "name": "antlr-lenguaje-project",
+  "version": "1.0.0",
+  "description": "Analizador léxico y sintáctico.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "antlr",
+    "parser",
+    "lexer",
+    "compiladores"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}

@@ -1,0 +1,3 @@
+numero = 10;
+resultado = numero + 5;
+print(resultado);
